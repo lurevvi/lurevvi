@@ -15,6 +15,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=800080)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Figma&logoColor=800080) 
 ![HTML_/_CSS](https://img.shields.io/badge/-HTML_/_CSS-000000?style=for-the-badge&logo=HTML_/_CSS&logoColor=800080)
+![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JS&logoColor=800080)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/lurevvi)
