@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&&size=70&color=ffffff&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Hi,+I'm+Varvara+%f0%9f%8c%8d)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Babylonica&size=85&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Varvara+Mekhonoshina+%f0%9f%92%9C)](https://git.io/typing-svg)
 
 ## QA engineer
 
