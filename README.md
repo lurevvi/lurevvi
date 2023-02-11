@@ -1,4 +1,4 @@
-![Header](https://github.com/lurevvi/lurevvi/blob/main/assets/header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=%2336BCF7&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Hi,+I'm+Varvara+%f0%9f%8c%8d)](https://git.io/typing-svg)
 
 ## QA engineer
 
