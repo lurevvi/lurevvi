@@ -1,6 +1,6 @@
-![Header](https://github.com/lurevvi/lurevvi.github.io/blob/master/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png?raw=true)
+![Header](https://github.com/lurevvi/lurevvi/tree/main/assets)
 
-## QA Junior
+## QA engineer
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=800080)
@@ -23,3 +23,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0000ff)](http://www.linkedin.com/in/lurevvi)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lurevvi)](https://github.com/anuraghazra/github-readme-stats)
+
+[def]: https://github.com/lurevvi/lurevvi/blob/master/assets/header.png
