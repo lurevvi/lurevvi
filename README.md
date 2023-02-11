@@ -1,4 +1,4 @@
-![Header](https://github.com/lurevvi/lurevvi/tree/main/assets)
+![Header](https://github.com/lurevvi/lurevvi/blob/main/assets/header.png)
 
 ## QA engineer
 
