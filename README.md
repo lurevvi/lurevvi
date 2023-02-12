@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Babylonica&size=80&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Varvara+Mekhonoshina+%f0%9f%92%9C)](https://git.io/typing-svg)
 
 ##  𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 𝐼'𝓂 𝒬𝒜 𝑒𝓃𝑔𝒾𝓃𝑒𝑒𝓇
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  𝐼'𝓂 𝒬𝒜 𝑒𝓃𝑔𝒾𝓃𝑒𝑒𝓇
 
 ### 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 𝓁𝑒𝓋𝑒𝓁 𝒜𝟣
 
