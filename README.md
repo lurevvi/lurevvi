@@ -32,6 +32,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows&logoColor=800080)
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=800080) 
 
+
 ### 💻 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 
 [![ Карточка Readme ](https://github-readme-stats.vercel.app/api/pin/?username=lurevvi&repo=SK-HW)](https://github.com/lurevvi/SK-HW)
 
