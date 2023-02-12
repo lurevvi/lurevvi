@@ -36,8 +36,7 @@
 ### 💻 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 
 [![ Карточка Readme ](https://github-readme-stats.vercel.app/api/pin/?username=lurevvi&repo=SK-HW)](https://github.com/lurevvi/SK-HW)
 
-<div align="центр">
-<img src="https://readme-typing-svg.herokuapp.com?font=MV+Boli&size=35&duration=4000&color=A51AF7&background=FFFFFF00¢er&center=true&vCenter=true&repeat=false&width=900&height=120&=true&vCenter=true&width=450&lines=Follow+me+%f0%9f%92%9C"/ >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MV+Boli&Press+Start+2P&size=50&pause=1000&color=A51AF7&center=true&vCenter=true&width=900&height=100&lines=Follow+me+%f0%9f%92%9C)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/lurevvi)
 [![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/lurevvi)
