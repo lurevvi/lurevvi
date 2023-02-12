@@ -46,6 +46,5 @@
   <img src="https://img.shields.io/badge/m.varvarrra%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=0000ff"/>
   <a href="http://www.linkedin.com/in/lurevvi">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0000ff"/>
-  </div>
 
 ![Typing SVG](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
