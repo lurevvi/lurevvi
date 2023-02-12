@@ -38,8 +38,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MV+Boli&Press+Start+2P&size=50&pause=1000&color=A51AF7&center=true&vCenter=true&width=900&height=100&lines=Follow+me+%f0%9f%92%9C)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/lurevvi)
-[![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/lurevvi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0000ff)](http://www.linkedin.com/in/lurevvi)
+<div align="center">
+<a href="https://t.me/lurevvi">
+  <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=0000ff&style=for-the-badge"/>
+  </a>
+  <a href="mailto:m.varvarrra@gmail.com">
+  <img src="https://img.shields.io/badge/m.varvarrra%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=0000ff"/>
+  <a href="http://www.linkedin.com/in/lurevvi">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0000ff"/>
+  </div>
 
 ![Typing SVG](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
