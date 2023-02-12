@@ -42,3 +42,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://t.me/lurevvi)
 [![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/lurevvi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0000ff)](http://www.linkedin.com/in/lurevvi)
+
+![Typing SVG](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
